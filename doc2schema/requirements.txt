@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+
+pdfplumber
+pytesseract
+opencv-python
+pandas
+pillow
+
+google-generativeai
+pydantic
+jsonschema
+

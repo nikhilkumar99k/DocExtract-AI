@@ -1,1 +1,0 @@
-# DocExtract-AI
