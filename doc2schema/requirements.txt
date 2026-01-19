@@ -13,3 +13,4 @@ pydantic
 jsonschema
 
 gunicorn
+google-genai
